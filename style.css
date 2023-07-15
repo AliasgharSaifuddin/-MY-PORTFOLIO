@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 60;
+    padding: 30px;
+    text-size-adjust: 40px;
+    background-image: url(back\ ground\ main.jpg);
+    font-size: large;
+    
+    /* background-color: lightslategray; */
+  }
+  
+  header {
+    background-color:transparent;
+    color: blue;
+    padding: 30px;
+    margin: 10px;
+    font-size: xx-large;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 30px;
+  }
+  
+  nav ul li a {
+    color:black;
+    text-decoration: solid;
+    text-shadow: 1px;
+    
+  }
+  
+  #main {
+    margin: 30px;
+    background-color:transparent;
+    padding: 100px;
+    font-size: x-large;
+    color: red;
+    /* background-image: url(my\ profileback\ ground.jpg); */
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  script {
+    display: none;
+    background-color: blue;
+  }
+  
+  
